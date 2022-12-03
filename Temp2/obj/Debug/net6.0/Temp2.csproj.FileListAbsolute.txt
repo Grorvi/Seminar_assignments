@@ -1,0 +1,15 @@
+H:\GeekBrains\Seminar_assignments\Temp2\bin\Debug\net6.0\Temp2.exe
+H:\GeekBrains\Seminar_assignments\Temp2\bin\Debug\net6.0\Temp2.deps.json
+H:\GeekBrains\Seminar_assignments\Temp2\bin\Debug\net6.0\Temp2.runtimeconfig.json
+H:\GeekBrains\Seminar_assignments\Temp2\bin\Debug\net6.0\Temp2.dll
+H:\GeekBrains\Seminar_assignments\Temp2\bin\Debug\net6.0\Temp2.pdb
+H:\GeekBrains\Seminar_assignments\Temp2\obj\Debug\net6.0\Temp2.csproj.AssemblyReference.cache
+H:\GeekBrains\Seminar_assignments\Temp2\obj\Debug\net6.0\Temp2.GeneratedMSBuildEditorConfig.editorconfig
+H:\GeekBrains\Seminar_assignments\Temp2\obj\Debug\net6.0\Temp2.AssemblyInfoInputs.cache
+H:\GeekBrains\Seminar_assignments\Temp2\obj\Debug\net6.0\Temp2.AssemblyInfo.cs
+H:\GeekBrains\Seminar_assignments\Temp2\obj\Debug\net6.0\Temp2.csproj.CoreCompileInputs.cache
+H:\GeekBrains\Seminar_assignments\Temp2\obj\Debug\net6.0\Temp2.dll
+H:\GeekBrains\Seminar_assignments\Temp2\obj\Debug\net6.0\refint\Temp2.dll
+H:\GeekBrains\Seminar_assignments\Temp2\obj\Debug\net6.0\Temp2.pdb
+H:\GeekBrains\Seminar_assignments\Temp2\obj\Debug\net6.0\Temp2.genruntimeconfig.cache
+H:\GeekBrains\Seminar_assignments\Temp2\obj\Debug\net6.0\ref\Temp2.dll
